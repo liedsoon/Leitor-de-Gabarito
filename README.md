@@ -85,3 +85,7 @@ São exibidas três janelas:
 - **Gabarito**: Recorte com feedback das respostas
 - **Binarização**: Visualização em preto e branco do preenchimento
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/cac6ba2d-05fb-45a1-bc96-cae97a335161" width="1000px" />
+</div>
+
