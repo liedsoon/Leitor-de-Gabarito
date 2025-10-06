@@ -2,6 +2,18 @@
 
 Este projeto utiliza **OpenCV** para capturar frames da webcam ou de um vídeo, identificar o maior contorno (gabarito de respostas), segmentar os campos de alternativas, e validar as respostas marcadas com base em um gabarito pré-definido.
 
+## 🖼️ Exibição
+
+São exibidas três janelas:
+
+- **WebCam**: Visualização geral do frame
+- **Gabarito**: Recorte com feedback das respostas
+- **Binarização**: Visualização em preto e branco do preenchimento
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/cac6ba2d-05fb-45a1-bc96-cae97a335161" width="1000px" />
+</div>
+
 ## ✨ Funcionalidades
 
 - Leitura da da webcam ou vídeo.
@@ -77,15 +89,5 @@ python Main.py
 
 5. Pressione `ESC` para sair da visualização.
 
-## 🖼️ Exibição
 
-São exibidas três janelas:
-
-- **WebCam**: Visualização geral do frame
-- **Gabarito**: Recorte com feedback das respostas
-- **Binarização**: Visualização em preto e branco do preenchimento
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/cac6ba2d-05fb-45a1-bc96-cae97a335161" width="1000px" />
-</div>
 
